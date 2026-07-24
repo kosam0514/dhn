@@ -1,0 +1,6 @@
+{
+  "name": "Spring Blue School Album",
+  "description": "A school photo album themed around blue and spring, categorizing 40 photos into daily life and four seasons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
